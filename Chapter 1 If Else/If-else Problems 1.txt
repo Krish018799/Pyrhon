@@ -1,0 +1,90 @@
+1. Enter one value and check whether that number is 5 or not.
+Example:
+•	Enter no => 5
+•	Output: Yes, no is 5.
+•	If 6 then Output: Sorry, no is not 5.
+________________________________________
+2. Enter one value and check whether that number is greater than 5 or not.
+Example:
+•	Enter no => 57
+•	Output: Yes, no is > 5.
+•	If 3 then Output: Sorry, no is < 5.
+________________________________________
+3. Write a Python program to accept two integers and check whether they are equal or not.
+Example:
+•	Enter no1 => 57
+•	Enter no2 => 57
+•	Output: Yes, both are equal.
+________________________________________
+
+4. Write a Python program to input any alphabet and check whether it is a vowel or consonant.
+Example:
+•	Enter character => a
+•	Output: It's a vowel.
+________________________________________
+5. Write a program where the user enters the temperature and display a message according to the temperature:
+•	Temp < 0: Freezing Atmosphere
+•	Temp 0 to 10: Very cold atmosphere
+•	Temp 10 to 20: Cold Atmosphere
+•	Temp 20 to 30: Normal Atmosphere
+•	Temp 30 to 40: Hot atmosphere
+•	Temp > 40: Very hot atmosphere
+________________________________________
+
+6. Write a program where a user enters the buying price and selling price, then the output should show if the person has made a profit or loss.
+Example:
+•	Buy = 400
+•	Sell = 600
+•	Output: The User has made a profit.
+________________________________________
+7. Write a program where the user can enter any number between 1 to 9, and the output should be the written word of the number.
+Example:
+•	User enters 1
+•	Output: One;
+•	User enters 2
+•	Output: Two.
+________________________________________
+8. Given two integer numbers, return their product only if the product is equal to or lower than 50; else, return their sum.
+Example 1:
+•	number1 = 20
+•	number2 = 30
+•	Output: The result is 600. Example 2:
+•	number1 = 40
+•	number2 = 3
+•	Output: The result is 43.
+________________________________________
+9. Accept the marked price from the user and calculate the net amount to pay according to the following criteria:
+Marked Price	Discount
+> 10,000	20%
+> 7,000 and <= 10,000	15%
+>= 7,000	10%
+________________________________________
+10. Accept the age, gender ('M', 'F'), number of days, and display the wages accordingly.
+Age	Gender	Wage/day
+>= 18 and < 30	M	700
+	F	750
+>= 30 and <= 40	M	800
+	F	850
+________________________________________
+
+11. Take the values of length and breadth of a rectangle from the user and check if it is a square or not.
+Hint: If length and breadth are the same, it is a square.
+________________________________________
+
+12. Ask the user to enter age, gender (M or F), marital status (Y or N), and then using the following rules, print their place of service:
+•	If the employee is female, she will work only in urban areas.
+•	If the employee is male and age is between 20 to 40, he may work anywhere.
+•	If the employee is male and age is between 40 to 60, he will work in urban areas only.
+•	Any other input of age should print "ERROR".
+______________________________________
+
+13. Write a Python program that will check for the following conditions:
+•	If the light is green: Car is allowed to go.
+•	If the light is yellow: Car has to wait.
+•	If the light is red: Car has to stop.
+•	Other signal: Unrecognized signal (e.g., black, blue, etc.).
+______________________________________
+
+14. Write a Python program that evaluates a person's age to determine if they are a child, teenager, adult, or senior. 
+Define a child as 0-12 years, a teenager as 13-19 years, an adult as 20-64 years, and a senior as 65 years and above. Ask the user to enter their age and print the corresponding category.
+
