@@ -1,0 +1,6 @@
+t1 = (11, 22, 33, 44, 33, 22, 33)
+value = int(input("Enter value to count: "))
+list1 = list(t1)
+count = list1.count(value)
+t1 = tuple(list1)
+print(count)
